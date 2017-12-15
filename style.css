@@ -1,0 +1,31 @@
+
+h1 {
+    color:aqua;
+    font-size:75px;
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-color: cyan;
+    border-bottom-width:10px;
+}
+table {
+    font-size: 200%;
+    border-collapse: collapse;
+    color:rgb(26, 26, 199);
+    border-style: solid;
+    border-width: 5px;
+    border-color:cyan;
+}
+.data {
+    color:rgb(26, 26, 199);
+    border-style: solid;
+    border-width: 5px;
+    border-color:cyan;
+}
+body {
+    background-color:dodgerblue;
+    outline-color: cyan;
+    outline-style: solid;
+    outline-width: 10px
+}
